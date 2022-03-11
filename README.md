@@ -1,4 +1,4 @@
-# Decision-Review-System
+# Decision-Review-System 🏏🥇
 A video operated decision review system for cricket matches. A python coded decision review system for cricket matches by operating a video and proper UI. Used cv2 and tkinter in python, made while learning python to get an idea of how powerful and easy python is.
 
 ## How To Use This Project
